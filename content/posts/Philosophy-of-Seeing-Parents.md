@@ -1,7 +1,7 @@
 ---
 title: "Philosophy of Seeing Parents"
 date: 2020-12-30
-tags: [reality, people, relationship, parents, child]
+tags: [reality, people, relationship, parents, child, independence, dependence]
 disqus: false
 draft: true
 ---
