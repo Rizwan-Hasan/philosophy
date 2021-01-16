@@ -1,7 +1,7 @@
 ---
 title: "Philosophy of Losers"
 date: 2021-01-16
-tags: [people, helping, reality, world, strategy, win, lose]
+tags: [people, helping, reality, world, strategy, win, lose, thinking]
 disqus: false
 ---
 
