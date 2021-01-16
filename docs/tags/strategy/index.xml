@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>helping on Rizwan Hasan</title>
-    <link>https://rizwan.studio/philosophy/tags/helping/</link>
-    <description>Recent content in helping on Rizwan Hasan</description>
+    <title>strategy on Rizwan Hasan</title>
+    <link>https://rizwan.studio/philosophy/tags/strategy/</link>
+    <description>Recent content in strategy on Rizwan Hasan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rizwan.studio/philosophy/tags/helping/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rizwan.studio/philosophy/tags/strategy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Philosophy of Losers</title>
       <link>https://rizwan.studio/philosophy/posts/philosophy-of-losers/</link>
@@ -15,15 +15,6 @@
       
       <guid>https://rizwan.studio/philosophy/posts/philosophy-of-losers/</guid>
       <description>Losers never give on giving excuses because they have a strong belief in themselves that they can’t do it. It’s your beliefs that make you the winner or loser in the first place.</description>
-    </item>
-    
-    <item>
-      <title>Philosophy of Helping</title>
-      <link>https://rizwan.studio/philosophy/posts/philosophy-of-helping/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rizwan.studio/philosophy/posts/philosophy-of-helping/</guid>
-      <description>Be helpful rather than useful.</description>
     </item>
     
   </channel>
