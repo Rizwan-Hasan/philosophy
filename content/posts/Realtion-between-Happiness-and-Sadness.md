@@ -1,7 +1,7 @@
 ---
 title: "Realtion between Happiness and Sadness"
 date: 2021-02-18
-tags: [decision, reality, strategy, win, lose, thinking]
+tags: [reality, thinking]
 disqus: false
 ---
 
