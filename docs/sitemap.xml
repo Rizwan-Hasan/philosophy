@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rizwan.studio/philosophy/tags/decision/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rizwan.studio/philosophy/tags/lose/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rizwan.studio/philosophy/posts/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
@@ -33,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://rizwan.studio/philosophy/tags/strategy/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rizwan.studio/philosophy/tags/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
@@ -48,12 +33,27 @@
   </url>
   
   <url>
-    <loc>https://rizwan.studio/philosophy/tags/win/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    <loc>https://rizwan.studio/philosophy/tags/decision/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rizwan.studio/philosophy/tags/lose/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rizwan.studio/philosophy/posts/philosophy-of-taking-hard-decisions/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rizwan.studio/philosophy/tags/strategy/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rizwan.studio/philosophy/tags/win/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url>
   
