@@ -1,5 +1,5 @@
 ---
-title: "Philisophy of Bad Memories"
+title: "Philosophy of Bad Memories"
 date: 2021-03-10
 tags: [reality, observation, life, memory, brain, happiness]
 disqus: false
