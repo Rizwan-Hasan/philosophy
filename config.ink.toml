@@ -1,4 +1,4 @@
-baseURL = "https://rizwan.studio/philosophy/"
+baseURL = "https://rizwan.studio"
 languageCode = "en-us"
 paginate = 5
 publishDir = "docs"
