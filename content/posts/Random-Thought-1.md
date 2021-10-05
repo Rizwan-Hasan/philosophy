@@ -1,6 +1,6 @@
 ---
-title: "Though on Human"
-date: 2021-10-04
+title: "Thought on Human"
+date: 2021-10-05
 tags: [people, reality, human]
 disqus: false
 ---
