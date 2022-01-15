@@ -4,13 +4,21 @@
         {
             "label": "Hugo Dev Server",
             "type": "shell",
-            "command": "hugo server --disableFastRender",
+            "command": "docker-compose",
+            "args": [
+                "up",
+                "liveserver",
+            ],
             "problemMatcher": []
         },
         {
             "label": "Hugo Build",
             "type": "shell",
-            "command": "hugo --gc --minify -d docs",
+            "command": "docker-compose",
+            "args": [
+                "up",
+                "deploy"
+            ],
             "problemMatcher": []
         },
     ]
