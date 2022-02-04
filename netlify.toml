@@ -3,7 +3,7 @@ command = "hugo --gc --minify -b $URL"
 publish = "public"
 
 [build.environment]
-HUGO_VERSION = "0.69.0"
+HUGO_VERSION = "0.87.0"
 HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
@@ -18,8 +18,5 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 [[plugins]]
 package = "netlify-plugin-hugo-cache-resources"
 
-[[headers]]
-for = "/*"
-
-[headers.values]
-Access-Control-Allow-Origin = "*"
+[plugins.inputs]
+debug = true
