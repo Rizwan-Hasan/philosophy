@@ -17,7 +17,7 @@
             "command": "docker-compose",
             "args": [
                 "up",
-                "deploy"
+                "deploy",
             ],
             "problemMatcher": []
         },
