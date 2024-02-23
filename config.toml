@@ -7,16 +7,16 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
-## Enable Disqus
-# disqusShortname = ""
+# Enable Disqus
+#disqusShortname = ""
 
-## Google Analytics
-# googleAnalytics = "UA-123-45"
+# Google Analytics
+#googleAnalytics = "UA-123-45"
 
 [params]
 title = "Rizwan Hasan"
 author = "Rizwan Hasan"
-copyright = "2022"
+copyright = "2024"
 description = "An archive of my Observations and Thoughts"
 profilePicture = "https://avatars.githubusercontent.com/u/16849373?v=4"
 keywords = ""
