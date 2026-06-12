@@ -1,21 +1,21 @@
-version: "3.3"
-
 services:
 
-    deploy:
-        image: klakegg/hugo:0.95.0-ext-alpine
+    rizwan-philosophy-deploy:
+        image: klakegg/hugo:0.95.0-ext-debian
         container_name: rizwan-philosophy-deploy
         restart: "no"
         command: --gc --minify -d docs
         volumes:
             - ".:/src"
+            - "./tmp:/tmp"
 
-    liveserver:
-        image: klakegg/hugo:0.95.0-ext-alpine
+    rizwan-philosophy-liveserver:
+        image: klakegg/hugo:0.95.0-ext-debian
         container_name: rizwan-philosophy-liveserver
         restart: "no"
         command: server --disableFastRender
         volumes:
             - ".:/src"
+            - "./tmp:/tmp"
         ports:
             - "1313:1313"
