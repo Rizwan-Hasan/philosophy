@@ -7,7 +7,7 @@
             "command": "docker-compose",
             "args": [
                 "up",
-                "liveserver",
+                "rizwan-philosophy-liveserver",
             ],
             "problemMatcher": []
         },
@@ -17,7 +17,7 @@
             "command": "docker-compose",
             "args": [
                 "up",
-                "deploy",
+                "rizwan-philosophy-deploy",
             ],
             "problemMatcher": []
         },
