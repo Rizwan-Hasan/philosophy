@@ -16,9 +16,9 @@ enableRobotsTXT = true
 [params]
 title = "Rizwan Hasan"
 author = "Rizwan Hasan"
-copyright = "2024"
+copyright = "2026"
 description = "An archive of my Observations and Thoughts"
-profilePicture = "https://avatars.githubusercontent.com/u/16849373?v=4"
+profilePicture = "/images/avatar.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
